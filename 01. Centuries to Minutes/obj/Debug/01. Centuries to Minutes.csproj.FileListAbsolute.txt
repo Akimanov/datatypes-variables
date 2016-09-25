@@ -1,0 +1,15 @@
+D:\visualStudioSourceCode\Data Types and Variables\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+D:\visualStudioSourceCode\Data Types and Variables\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe
+D:\visualStudioSourceCode\Data Types and Variables\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.pdb
+D:\visualStudioSourceCode\Data Types and Variables\01. Centuries to Minutes\obj\Debug\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+D:\visualStudioSourceCode\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+D:\visualStudioSourceCode\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb
+D:\visualStudioSourceCode\Data Types and Variables\SoftUni-Projects\Data Types and Variables\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+D:\visualStudioSourceCode\Data Types and Variables\SoftUni-Projects\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+D:\visualStudioSourceCode\Data Types and Variables\SoftUni-Projects\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb
+D:\visualStudioSourceCode\datav variables\SoftUni-Projects\Data Types and Variables\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+D:\visualStudioSourceCode\datav variables\SoftUni-Projects\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+D:\visualStudioSourceCode\datav variables\SoftUni-Projects\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb
+D:\visualStudioSourceCode\Programming Fundamentals\Data Types and Variables\01. Centuries to Minutes\bin\Debug\_01.Centuries_to_Minutes.exe.config
+D:\visualStudioSourceCode\Programming Fundamentals\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.exe
+D:\visualStudioSourceCode\Programming Fundamentals\Data Types and Variables\01. Centuries to Minutes\obj\Debug\_01.Centuries_to_Minutes.pdb
